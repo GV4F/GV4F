@@ -21,8 +21,8 @@ I´m student of programming. I love to learn new technologies, acquire new skill
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ### Development Mobile 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -57,8 +57,8 @@ I´m student of programming. I love to learn new technologies, acquire new skill
   {
     Console.WriteLine("I want to be a software engineer.");
     Console.WriteLine("I want to learn Japanese.");
-    Console.WriteLine("I want to learn Robotic Engineer");
-    Console.WriteLine("I would love to learn cybersecurity.");
+    Console.WriteLine("I want to learn about Robotic Engineer");
+    Console.WriteLine("I would love to learn Cybersecurity.");
   }
 
   public void Philosophy()

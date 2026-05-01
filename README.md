@@ -10,7 +10,7 @@ I´m student of programming. I love to learn new technologies, acquire new skill
 ## Technologies Stack
 ### Programming Web
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -30,6 +30,8 @@ I´m student of programming. I love to learn new technologies, acquire new skill
 ### Cybersecurity
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
+### DevOps
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ### Other
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -37,6 +39,7 @@ I´m student of programming. I love to learn new technologies, acquire new skill
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
 
  ## Who am I?
  ```c#
@@ -44,7 +47,7 @@ I´m student of programming. I love to learn new technologies, acquire new skill
 {
   string fullname = "Angel";
   int age = 19;
-  List<string> hobbies = [ "Reading", "Learn Math", "Listening to music", "Learn Physics", "Train Calisthenics", "Learn new skill's", "Try a new things"];
+  List<string> hobbies = [ "Reading", "Listen to music", "Learn Physics", "Learn new skill's", "Try a new things"];
 
   public string GetCity()
   {
@@ -54,7 +57,7 @@ I´m student of programming. I love to learn new technologies, acquire new skill
   {
     Console.WriteLine("I want to be a software engineer.");
     Console.WriteLine("I want to learn Japanese.");
-    Console.WriteLine("I want to learn about Robotic Engineer");
+    Console.WriteLine("I want to learn about Electronic Engineer");
     Console.WriteLine("I would love to learn Cybersecurity.");
   }
 

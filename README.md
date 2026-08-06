@@ -3,21 +3,22 @@
 
 ![Linkedin Badge](https://img.shields.io/badge/Angel%20Caal%20-25c2a0?label=in&labelColor=0170ad&link=www.linkedin.com%2Fin%2Fangel-caal-b94305351) ![Gmil Badge](https://img.shields.io/badge/angelcaal%40gmail.com%20-8d37dc?logo=gmail&labelColor=fff&link=mailto:angelcaal%40gmail.com) 
 
-[![Instagram](https://img.shields.io/badge/gv4f_-%23D7377F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gv4f_)
+<!-- [![Instagram](https://img.shields.io/badge/gv4f_-%23D7377F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gv4f_) -->
 
-I´m student of programming. I love to learn new technologies, acquire new skills and i´m passionate about facing new challenges. I´m currently into web development and working on imporving my Data Structures and Algorithms skills.
+I´m student of programming. I love to learn new technologies, acquire new skills and i´m passionate about facing new challenges. I´m currently into backend development and mobile application development.
 
 ## Technologies Stack
 ### Programming Web
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ### Development Mobile 

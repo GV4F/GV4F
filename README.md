@@ -3,7 +3,7 @@
 
 Hi, I am a Self-Taught programming student. I love to learn new technologies, acquire new skills and I'm passionate about facing new challenges. I'm currently into backend development and mobile application development.
 
-**Next year, I'm starting university to study Software Engineering.**🎉🎉
+**Next year, I'm starting university to study Software Engineering.** 🎉🎉
 
 
 ## 🌐 Connect with me 

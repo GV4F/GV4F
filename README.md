@@ -24,7 +24,7 @@ Hi, I am a Self-Taught programming student. I love to learn new technologies, ac
 ### Web Stack
 ![Frontend Stack](https://skillicons.dev/icons?i=html,css,js,ts,cs,net,nodejs,react,next,bootstrap,sass,tailwind,threejs)
 
-### Development Stack
+### Mobile Stack
 ![Development Stack](https://skillicons.dev/icons?i=dart,flutter)
 
 ### Database
